@@ -21,3 +21,14 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+venv/
+.idea/
+.vscode/
+.DS_Store
